@@ -35,7 +35,7 @@ span.PSourceCodeText
 span.PSourceCodePostfix
 {
   margin-left: 5px;
-  color: rgb(255,0,0);
+  color: rgba(255, 196, 0, 0.815);
 }
 
 span.PSourceCodePostfix img
